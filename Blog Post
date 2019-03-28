@@ -1,0 +1,127 @@
+`<!DOCTYPE html>
+<html lang="eng">
+
+
+<head> 
+        <title>Abbey Cole's Resume</title>
+
+<link href="Finalstyle.css" type="text/css" rel="stylesheet"></link>
+</head>
+
+
+<body>
+
+<div id="navbar">
+<span> Abbey Cole Public Relations </span>
+
+
+
+<hr> </hr>
+
+</div>
+
+<DIV role="main-content" class="main-text">
+    <form role=Banner>
+<h1 class=banner-related>Abbey Kaitlyn Marie Cole</h1>
+<p>8 Tulip Court</p>
+<p>Stoney Creek, Ont</p>
+<p>L8G 2T1</p>
+<p>(905) 515-7439</p>
+<br> </br>
+</form>
+</DIV>
+<DIV role="article" class="cover-letter">
+    <form role=article>
+        <img class="photo-one" src="IMG_4975.png" alt="A photo of Abbey Cole." width="150px" height="250px">
+        
+<p> Dear Hiring Manager,</p>
+<p>I have experience as a cashier and a customer service associate, which has provided me with the skills to problem solve and handle difficult situations. 
+    <p>I am currently working towards a Media Studies degree in hopes to specialize in Public Relations. This education has allowed me to </p>
+        <p>start working as a Public Relations Manager, Social Media Assistant and Event Planner at Century Stone Dental, as well as a Social Media Assistant at the University of Guelph-Humber. </p>
+        <p>I have recently been appointed to Marketing Manager at the Williams Fresh Cafe in Stoney Creek, where I create advertisements and visit different businesses for future connections.</p>
+<p>While I have great experience, I also have excellent communication and people skills which would be very effective and appropriate for further customer service. My past experiences with public interest jobs, customer service, as well as multiple leadership programs and conferences, have provided me with the skills to act quickly, yet effectively when making decisions. These past leadership experiences taught me to guide others and bring out the best in my peers when working as a team. I am very outgoing and would do this particular job justice.</p>
+<p>Thank you for your time and consideration. I would welcome the chance to discuss how my skills fit well with the needs of this placement. I hope you consider my qualifications as there are always ways to improve. I would love to accept the challenge of working hard to complete daily tasks for this job and help you reach your goals.</p>
+</form>
+
+<div>
+    <hr></hr>
+<p id="large">As requested, the following links are samples of my work:</p>
+</div>
+
+<br>
+</br>
+</DIV>
+
+<DIV role="Link-navigation" class="links-here">
+<span><a href="https://linktr.ee/waytooshabbey">&nbsp;Social Media Works</a></span>
+<span><a href="https://instagram.com/waytooshabbey">&nbsp;&nbsp;&nbsp;Personal Instagram</a></span>
+<span><a href="https://vsco.com/poeticsounds">&nbsp;&nbsp;&nbsp;&nbsp;Personal VSCO&nbsp;&nbsp;</a></span>
+<span><a href="https://www.linkedin.com/in/abbey-cole-33ab8786">&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;</a></span>
+
+</DIV>
+
+</DIV>
+<main id="main" role="main">
+<DIV role="Main">
+
+<h1 class="objectives-text">Objectives</h1>
+
+<p>Responsible individual seeking a public relations position that will help me develop my skills.</p>
+<h2 class="title">Skills</h2>
+<ul class=skills-list>
+<li>Reliable</li>
+<li>Excellent Communicator</li>
+<li>Organized</li>
+<li>Energetic</li>
+<li>Hard Workiing</li>
+<li>Problem Solver</li>
+</ul>
+<h2 class="title">Education</h2>
+<p>2014-2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Orchard Park Secondary School</b></p>
+<p>2017-Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>University of Guelph-Humber</b> </p>
+
+<h2 class="title">Experience</h2>
+
+
+<p>2015-2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Toys R Us, Stoney Creek</b> </p>
+<p>cash, floor, baby, and customer service sales associate</p>
+<hr></hr>
+<p>Summer 2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Century Stone Dental, Hamilton</b></p>
+<p>public relations specialist, event planner and social media analytic</p>
+<hr></hr>
+<p>September 2018-Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>University of Guelph-Humber</b></p>
+<p>social media assistant</p>
+<hr></hr>
+<p>September 2018-Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Done Right Pest and Wildlife Control</b></p>
+<p>public relations specialist</p>
+<hr></hr>
+<p>December 2018-Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Williams Fresh Cafe</b></p>
+<p>cashier and marketing manager</p>
+<hr></hr>
+</main>
+
+
+<h2 class="title">Interests</h2>
+<p>- learning new things - writing and presenting speeches - reading - writing - public relations </p>
+
+</DIV>
+
+<DIV role="References" class=reference-request>
+<h3> References can be sent upon request.</h3>
+
+</DIV>
+
+<div class="end"> 
+
+<p>Contact Abbey Cole:</p>
+<hr> </hr>
+<p>waytooshabbey@outlook.com</p>
+
+
+</div>
+
+
+
+
+</body>
+</html>
