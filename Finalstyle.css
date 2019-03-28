@@ -1,0 +1,125 @@
+body {
+    background-color: lightsteelblue;
+
+}
+
+.navbar {
+
+
+    font-size: 30px;
+
+
+
+
+}
+
+
+span {
+
+
+    font-size: 30px;
+
+    -moz-text-decoration-line: underline; color: lemonchiffon;
+    text-align: center;
+   
+
+}
+
+.navbarlink {
+
+    text-align: center;
+    text-decoration-line: overline; color:lavender;
+    font-size: 30px;
+
+        
+
+}
+
+a:hover {
+
+
+    background-color: lightcoral;
+    text-decoration-line: underline; color: seashell;
+    text-emphasis-color: whitesmoke;
+}
+
+
+.title {
+
+font-size: 30px;
+}
+
+.cover-letter {
+
+    text-align: center; 
+    padding: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: lemonchiffon;
+
+}
+
+
+
+.photo-one {
+    align-content: flex-start;
+    style: padding: 15px; float: left;            
+        background: lemonchiffon;   
+        margin: 12px 12px 12px 12px;
+        padding: 12px 0px 12px 12px; 
+        list-style: none  
+    
+}
+
+.photo-banner {
+
+    position: absolute;  left: 50%;
+}
+
+.links-here {
+
+    text-align: center;
+}
+
+.abc {
+
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    text-decoration-line: underline;
+    text-decoration-color: wheat;
+}
+
+.list {
+
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    text-decoration-color: seashell;
+}
+.end {
+    font-family: cursive;
+    font-size: 30px;
+    text-decoration-line: underline;
+    text-decoration-color: wheat;
+    text-align: center;
+}
+
+.gallery {
+
+    align-content: center;
+    background: lemonchiffon;   
+        margin: 12px 12px 12px 12px;
+        padding: 12px 0px 12px 12px; 
+        list-style: none 
+    
+}
+
+.gallery2 {
+    align-content: center;
+    background: lemonchiffon;   
+    margin: 12px 12px 12px 12px;
+    padding: 12px 0px 12px 12px; 
+    list-style: none 
+}
